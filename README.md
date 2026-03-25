@@ -1,8 +1,8 @@
-**Algorithms and Data Structures
-Assignment 1: Recursion
+**Algorithms and Data Structures**
+**Assignment 1: Recursion**
 
-1. Write and test a recursive function that returns the sum of the squares of the**
-first n positive integers.
+**1. Write and test a recursive function that returns the sum of the squares of the
+first n positive integers.**
 1
 2 + 2
 2 + … + 𝑛
@@ -17,9 +17,9 @@ Sample Output: 1
 **2. Write and test a recursive function that returns the sum of the first n
 elements of an array.**
 
-**3. Write a recursive method to compute the sum of the first n positive integers.
+**3. Write a recursive method to compute the sum of the first n positive integers.**
 
-4. Write and test a recursive function that returns the sum of the first n powers
+**4. Write and test a recursive function that returns the sum of the first n powers
 of a base b.**
 𝑏
 0 + 𝑏

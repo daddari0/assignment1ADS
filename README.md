@@ -1,6 +1,18 @@
 **Algorithms and Data Structures**  
 **Assignment 1: Recursion**
 
+Task	Time	    Space  
+1  	  O(n)	    O(n)  
+2	    O(n)	    O(n)  
+3	    O(n)	    O(n)  
+4	    O(n^2)	  O(n)  
+5	    O(n)	    O(n)  
+6	    O(n)	    O(n)  
+7	    O(n^2)	  O(n^2)  
+8	    O(k^n)    O(n)  
+9	    O(m·m!)	  O(m)  
+10	  O(log n)	O(log n)  
+
 **1. Write and test a recursive function that returns the sum of the squares of the
 first n positive integers.**
 
